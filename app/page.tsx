@@ -28,7 +28,7 @@ const items1 = [
     ]
   },
   {
-    id: 1,
+    id: 2,
     name: "Ветчина и сыр",
     imageUrl: "https://media.dodostatic.net/image/r:292x292/11EE7D60FDA22358AC33C6A44EB093A2.avif",
     price: "409",
@@ -45,7 +45,7 @@ const items1 = [
     ]
   },
   {
-    id: 1,
+    id: 3,
     name: "Ветчина и сыр",
     imageUrl: "https://media.dodostatic.net/image/r:292x292/11EE7D60FDA22358AC33C6A44EB093A2.avif",
     price: "409",
@@ -62,7 +62,7 @@ const items1 = [
     ]
   },
   {
-    id: 1,
+    id: 4,
     name: "Ветчина и сыр",
     imageUrl: "https://media.dodostatic.net/image/r:292x292/11EE7D60FDA22358AC33C6A44EB093A2.avif",
     price: "409",
@@ -99,7 +99,7 @@ const items2 = [
     ]
   },
   {
-    id: 1,
+    id: 2,
     name: "Дэнвич ветчина и сыр",
     imageUrl: "https://media.dodostatic.net/image/r:292x292/11EE796FF0059B799A17F57A9E64C725.avif",
     price: "259",
@@ -116,7 +116,7 @@ const items2 = [
     ]
   },
   {
-    id: 1,
+    id: 3,
     name: "Дэнвич ветчина и сыр",
     imageUrl: "https://media.dodostatic.net/image/r:292x292/11EE796FF0059B799A17F57A9E64C725.avif",
     price: "259",
